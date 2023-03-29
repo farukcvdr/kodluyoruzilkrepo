@@ -1,0 +1,1 @@
+![İmages](C:\Users\asus\Documents\GitHub\kodluyoruzilkrepo\img.JPG)
