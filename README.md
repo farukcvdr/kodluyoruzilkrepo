@@ -14,7 +14,7 @@ git clone https://github.com/farukcvdr/kodluyoruzilkrepo.git
 
 ## Usage
 
-Projeyi cloneladıtan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
